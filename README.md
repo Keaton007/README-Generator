@@ -9,8 +9,8 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * 
-* [License](#license)
-* [Contributing](#contributing)
+  * [License](#license)
+  * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   
@@ -24,7 +24,7 @@
   This will create a README file for any project. All you have to do is answer some prompts
 
   ## License
-This project is licensed under the MIT license.
+  This project is licensed under the MIT license.
 
   ## Contributing
   Add different section, improve layout, etc. Just do not fully delete the files.
