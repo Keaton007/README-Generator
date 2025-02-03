@@ -24,7 +24,6 @@
   This will create a README file for any project. All you have to do is answer some prompts
 
   ## License
-  ## License
 This project is licensed under the MIT license.
 
   ## Contributing
@@ -38,4 +37,6 @@ This project is licensed under the MIT license.
 
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at [Keatonjonesy@gmail.com](mailto:Keatonjonesy@gmail.com). You can find more of my work at [Keaton007](https://github.com/Keaton007)
+
+  Link to Walk-through: https://app.screencastify.com/v2/manage/videos/MTLOLCEFvluOpfnb36b4
 
